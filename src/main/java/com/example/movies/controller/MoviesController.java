@@ -25,7 +25,7 @@ import com.example.movies.services.MovieService;
  * @author ronneyismael
  *
  */
-//@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping("/api/v1")
 public class MoviesController {

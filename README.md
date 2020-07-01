@@ -3,6 +3,11 @@
 
 (Movie Search Engine Application)
 
+![](src/main/resources/static/assets/img/logo.png)
+
+![](src/main/resources/static/assets/img/frozen.jpg)
+
+
 Step 1.Make sure you have installed mysql database ,create a database named movies
 
 Step 2: open application.properties file and change the spring.datasource.username

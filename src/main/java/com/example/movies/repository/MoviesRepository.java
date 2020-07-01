@@ -8,6 +8,11 @@ import org.springframework.stereotype.Repository;
 
 import com.example.movies.model.Movies;
 
+/**
+ * @author ronneyismael
+ *
+ */
+
 @Repository
 public interface MoviesRepository extends JpaRepository<Movies, Integer>,PagingAndSortingRepository<Movies, Integer> {
 

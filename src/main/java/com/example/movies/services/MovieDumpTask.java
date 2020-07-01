@@ -23,6 +23,11 @@ import com.example.movies.model.MoviesDB;
 import com.example.movies.model.TrailerLink;
 import com.example.movies.model.TrailerLinkResponse;
 
+/**
+ * @author ronneyismael
+ *
+ */
+
 public class MovieDumpTask implements Callable<List<Movies>> {
 
 	private static final Logger log = LoggerFactory.getLogger(MovieDumpTask.class);

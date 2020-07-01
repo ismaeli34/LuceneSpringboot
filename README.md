@@ -1,5 +1,4 @@
-# moviesCrudSearch
-# moviesSeach
+
 # LuceneSpringboot
 
 (Movie Search Engine Application)

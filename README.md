@@ -7,9 +7,7 @@
 
 ![](src/main/resources/static/assets/img/pic2.jpg)
 
-![](src/main/resources/static/assets/img/pic3.jpg)
 
-![](src/main/resources/static/assets/img/pic4.jpg)
 
 
 

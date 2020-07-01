@@ -3,9 +3,15 @@
 
 (Movie Search Engine Application)
 
-![](src/main/resources/static/assets/img/logo.png)
+![](src/main/resources/static/assets/img/pic1.png)
 
-![](src/main/resources/static/assets/img/frozen.jpg)
+![](src/main/resources/static/assets/img/pic2.jpg)
+
+![](src/main/resources/static/assets/img/pic3.jpg)
+
+![](src/main/resources/static/assets/img/pic4.jpg)
+
+
 
 
 Step 1.Make sure you have installed mysql database ,create a database named movies

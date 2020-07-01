@@ -3,6 +3,8 @@
 
 (Movie Search Engine Application)
 
+![](src/main/resources/static/assets/img/pic1.jpg)
+
 
 
 

@@ -3,12 +3,7 @@
 
 (Movie Search Engine Application)
 
-![](src/main/resources/static/assets/img/pic1.png)
-
-![](src/main/resources/static/assets/img/pic2.jpg)
-
-
-
+![](src/main/resources/static/assets/img/pic1.jpg)
 
 
 

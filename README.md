@@ -4,6 +4,8 @@
 (Movie Search Engine Application)
 
 ![](src/main/resources/static/assets/img/pic1.png) ![](src/main/resources/static/assets/img/pic2.png)
+![](src/main/resources/static/assets/img/pic3.png) ![](src/main/resources/static/assets/img/pic4.png)
+
 
 
 

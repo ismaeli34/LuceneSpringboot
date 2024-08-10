@@ -1,5 +1,5 @@
 
-# LuceneSpringboot
+# Movie Search Application using Apache Lucene (Text Search Engine Library) 
 
 (Movie Search Engine Application)
 

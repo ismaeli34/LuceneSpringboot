@@ -1,5 +1,5 @@
 
-# Movie Search Application using Apache Lucene (Text Search Engine Library) 
+# Movie Search Application using Apache Lucene & Angular (Text Search Engine Library) 
 
 (Movie Search Engine Application)
 
